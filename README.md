@@ -8,7 +8,7 @@
 💭 Currently diving into the world of AI, ML, and innovative tech solutions<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=vik05h&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ### A Little More About Me  
 - I’m just getting started with my coding journey on GitHub—excited to build and share!  
