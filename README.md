@@ -26,8 +26,11 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+---
+
 ### 📂 Featured Repository  
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vik05h&repo=Crowd-Management-System&theme=merko )
+![Crowd Management System](https://github-readme-stats.vercel.app/api/pin/?username=vik05h&repo=Crowd-Management-System&theme=merko)  
+🔗 [Check out Crowd-Management-System](https://github.com/vik05h/Crowd-Management-System)  
 
 ---
 
